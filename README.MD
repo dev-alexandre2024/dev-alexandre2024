@@ -1,7 +1,8 @@
 # Alexandre Silva 👋
 
-Olá, eu sou Alexandre e iniciando os estudos na área de programação.
-Inicei os estudos focando nas principais linguagens usadas na WEB:
+## Olá, eu sou Alexandre e iniciando os estudos na área de programação.
+
+### Inicei os estudos focando nas principais linguagens usadas na WEB:
 
 - HTML - liguagem de marcação 
 - CSS - linguagem de estilização
