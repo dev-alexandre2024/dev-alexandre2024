@@ -4,8 +4,8 @@
 
 ### Inicei os estudos focando nas principais linguagens usadas na WEB:
 
-- HTML - liguagem de marcação 
-- CSS - linguagem de estilização
+- **HTML** - liguagem de marcação 
+- **CSS** - linguagem de estilização
 
 Em breve, darei início nos estudos do JavaScript
 
