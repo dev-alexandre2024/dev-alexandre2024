@@ -1,6 +1,6 @@
 # Alexandre Silva 👋
 
-## Olá, eu sou Alexandre e iniciando os estudos na área de programação.
+## Olá, eu sou Alexandre e estou iniciando os estudos na área de programação.
 
 ### Inicei os estudos focando nas principais linguagens usadas na WEB:
 
