@@ -9,4 +9,15 @@
 
 Em breve, darei início nos estudos do JavaScript
 
+## Alexandre Silva 👋
+
+## Hello, I'm Alexandre, and I'm starting my studies in programming.
+
+### I began my journey by focusing on the main languages used in WEB development:
+
+- **HTML** - markup language
+- **CSS** - styling language
+
+Soon, I will start learning JavaScript.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-alexandre2024&show_icons=true&theme=dark)
