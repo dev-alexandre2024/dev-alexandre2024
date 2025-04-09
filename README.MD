@@ -6,8 +6,7 @@
 
 - **HTML** - liguagem de marcação 
 - **CSS** - linguagem de estilização
-
-Em breve, darei início nos estudos do JavaScript
+- **Javascript** - linguagem de Programação
 
 ## Alexandre Silva 👋
 
@@ -17,7 +16,6 @@ Em breve, darei início nos estudos do JavaScript
 
 - **HTML** - markup language
 - **CSS** - styling language
-
-Soon, I will start learning JavaScript.
+- **Javascript** - programming language
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-alexandre2024&show_icons=true&theme=dark)
