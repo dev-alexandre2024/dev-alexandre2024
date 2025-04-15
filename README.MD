@@ -8,7 +8,7 @@
 - **CSS** - linguagem de estilização
 - **Javascript** - linguagem de Programação
 
-## Alexandre Silva 👋
+# Alexandre Silva 👋
 
 ## Hello, I'm Alexandre, and I'm starting my studies in programming.
 
